@@ -51,3 +51,24 @@ The i-Wish project is a desktop application designed to bring joy and happiness 
 
 15. Handles Gift Item Completion
     Notifies participants about the completion of the shares for a gift item. Informs the wish list owner that an item has been gifted by specific friend(s).
+
+"Users can register by providing required information, then login with their credentials to access the platform's features."
+
+![Merged_document (1)](https://github.com/MarinaFawzy/iWish/assets/89097013/bed74201-7d9b-4f0f-ad9e-7f2aaa4a74ed)
+
+"Users can recharge their account by specifying the desired amount and completing the payment process."
+
+![recharge](https://github.com/MarinaFawzy/iWish/assets/89097013/f9ab0f87-49b6-423d-8a79-18123346d917)
+
+"Users can view all items available in the market and search for specific items by name  displaying their respective prices."
+
+![items](https://github.com/MarinaFawzy/iWish/assets/89097013/d6868b11-ee14-412e-bb12-f8625294d906)
+
+"Users can search for other users, send friend requests, and manage incoming requests by accepting or canceling them."
+
+![freinds](https://github.com/MarinaFawzy/iWish/assets/89097013/9cf9262a-28f4-490a-8679-154f0725b014)
+
+"Users can view all friends and their respective wish lists."
+
+![freind_item](https://github.com/MarinaFawzy/iWish/assets/89097013/1afb0c82-1d65-4546-8b20-183daa0dfa20)
+
